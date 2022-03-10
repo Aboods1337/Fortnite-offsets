@@ -47,3 +47,4 @@ FortniteGame.FortRangedWeaponStats.RecoilDownsightsMultiplier 0x238
 FortniteGame.BuildingContainer.bAlreadySearched 0xE49
 
 Contact me : Aboods#1337
+
